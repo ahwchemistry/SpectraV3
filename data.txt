@@ -1,0 +1,10 @@
+http://nmrshiftdb.nmr.uni-koeln.de/NmrshiftdbServlet/nmrshiftdbaction/exportcmlbyinchi/inchi/InChI%253D1S%252FC3H6O%252Fc1-3%25282%25294%252Fh1-2H3/spectrumtype/1H
+Drawing2.22
+Drawing2.15
+Drawing2.08
+Drawing2.09
+Drawing2.09
+Drawing1.55
+Drawing2.17
+Drawing2.15
+Drawing2.2

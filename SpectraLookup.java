@@ -49,7 +49,7 @@ public class SpectraLookup {
         XPath nmrpath = nmrfactory.newXPath();
 
         //Selects all elements that contain the xValues for the NMR Spectrum
-        String expression = "/cml/spectrum/peakList/*[@xValue]";
+        String expression = "/cml/spectrum[1]/peakList/*[@xValue]";
 
         NodeList nodeList = (NodeList) nmrpath.evaluate(expression, nmrdoc, XPathConstants.NODESET);
 
